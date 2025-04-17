@@ -1,3 +1,7 @@
+![Screenshot 2025-04-17 120350](https://github.com/user-attachments/assets/df9eb6e8-9dd3-4e35-a1de-5b63886d59c1)
+![Screenshot 2025-04-17 120238](https://github.com/user-attachments/assets/7aa55f49-ec56-441f-bf92-fb4bd85243c8)
+
+
 # My Static Website Hosted on GitHub Pages
 
 This is a simple static website created and hosted on **GitHub Pages**.
